@@ -18,8 +18,9 @@ También, está diseñado y desarrollado para ser visualmente atractivo.
 1. HTML
 2. CSS
 3. JavaScript
-4. jQuery
-5. CDN jQuery
+4. PHP
+5. jQuery
+6. CDN jQuery
 
 ## Proceso de Desarrollo ##
 
