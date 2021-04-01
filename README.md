@@ -6,6 +6,18 @@ Este sitio web, está hecho para mostrar colores obtenidos de una API, los cuale
 facilitando el método de obtener el color escogido por el usuario.
 También, está diseñado y desarrollado para ser visualmente atractivo.
 
+## VISUALIZACIÓN PROYECTO ##
+
+1. Heroku
+	* https://reto-multiplica-talent.herokuapp.com/
+	
+2. Bitbucket
+	* https://bitbucket.org/JhoplaINC/reto-multitalent/src/master/
+	
+3. GitHub
+	* https://github.com/JhoplaINC/reto-multiplica-talent
+
+
 ### Herramientas utilizadas para el desarrollo de este repositorio ###
 
 1. Laragon
